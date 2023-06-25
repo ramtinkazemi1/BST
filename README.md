@@ -38,15 +38,7 @@ The project leverages the principles of binary search trees, such as maintaining
 
 ## How to Use
 
-To use the project:
-
-1. Prepare a text file containing the file system information.
-2. Ensure that the file follows the specified format: each line represents a file with its name, directory, and last modified date.
-3. Execute the project code, providing the input file as an argument.
-4. The project will process the input file, build the BST, and provide various functionalities for ordering and filtering the file data.
-5. Explore the project's functionalities to order, filter, and retrieve file information as required.
-
-Please refer to the project documentation or comments within the code for detailed usage instructions and additional information.
+Please refer to the project Test files within the repository for detailed usage instructions and additional information.
 
 ## Contributions and Support
 
